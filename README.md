@@ -3,11 +3,14 @@
 📅 **Rythme :** [3 semaines en entreprise / 1 semaine de cours]
 
 <p align="center">
-  <font size="5" color="#00d2ff"><b>Sécurité Systèmes & Réseaux</b></font> | 
+  <font size="5" color="#00d2ff"><b>Ingénieur Sécurité Systèmes & Réseaux</b></font> | 
   <font size="5" color="#00d2ff"><b>SOC & Défense</b></font> | 
   <font size="5" color="#00d2ff"><b>Gouvernance Cyber</b></font>
-</p>
+</p >
 
+<p align="center">
+<img width="150 height="1000" alt="3CE5CC53-F6EF-40F4-BB36-981358F64F84" src="https://github.com/user-attachments/assets/39845a4e-544b-4f63-9853-d780c385b8c4" />
+</p >
 ---
 
 ### 👤 À propos de moi
